@@ -346,6 +346,10 @@ svg:not(:root) {
 body {
   -webkit-font-smoothing: antialiased;
 }
+#outer {
+  max-width: 1100px;
+  margin: 0 auto;
+}
 /******** COLOR STYLES *********/
 /******** TYPE FORMATING STYLES *********/
 .light {

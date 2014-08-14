@@ -5,79 +5,83 @@
 </head>
 <body>
 
-	<section class="ft-container">
-		<header>
-			<img class="scroll" src="/_assets/img/scroll.png" alt="Tara Reid Photography">
-			<h1 id="fittext1">Tara Reid Photography</h1>
-		</header>
-	</section>
+	<div id="outer">
 
-    <section class="slider">
+		<section class="ft-container">
+			<header>
+				<img class="scroll" src="/_assets/img/scroll.png" alt="Tara Reid Photography">
+				<h1 id="fittext1">Tara Reid Photography</h1>
+			</header>
+		</section>
 
-        <div class="flexslider carousel">
+	    <section class="slider">
 
-	        <ul class="slides">
-	            <li>
-	  	    	    <img src="/_assets/img/slides/azalea.jpg" alt="Tara Reid Photography - Azalea Ruth Maddox" />
-	  	    	</li>
-	  	    	<li>
-	  	    	    <img src="/_assets/img/slides/austin.jpg" alt="Tara Reid Photography - Austin Reid" />
-	  	    	</li>
-	  	    	<li>
-	  	    	    <img src="/_assets/img/slides/blanket.jpg" alt="Tara Reid Photography - Children Photography" />
-	  	    	</li>
-	  	    	<li>
-	  	    	    <img src="/_assets/img/slides/bridal.jpg" alt="Tara Reid Photography - Bridal Photography" />
-	  	    	</li>
-	            <li>
-	  	    	    <img src="/_assets/img/slides/engagement.jpg" alt="Tara Reid Photography - Engagement Photography" />
-	  	    	</li>
-	  	    	<li>
-	  	    	    <img src="/_assets/img/slides/hats.jpg" alt="Tara Reid Photography - Children Portraits" />
-	  	    	</li>
-	  	    	<li>
-	  	    	    <img src="/_assets/img/slides/jump.jpg" alt="Tara Reid Photography - Child Portraits" />
-	  	    	</li>
-	  	    	<li>
-	  	    	    <img src="/_assets/img/slides/sunflower.jpg" alt="Tara Reid Photography - Infant Photography" />
-	  	    	</li>
-	        </ul>
+	        <div class="flexslider carousel">
 
-        </div>
+		        <ul class="slides">
+		            <li>
+		  	    	    <img src="/_assets/img/slides/azalea.jpg" alt="Tara Reid Photography - Azalea Ruth Maddox" />
+		  	    	</li>
+		  	    	<li>
+		  	    	    <img src="/_assets/img/slides/austin.jpg" alt="Tara Reid Photography - Austin Reid" />
+		  	    	</li>
+		  	    	<li>
+		  	    	    <img src="/_assets/img/slides/blanket.jpg" alt="Tara Reid Photography - Children Photography" />
+		  	    	</li>
+		  	    	<li>
+		  	    	    <img src="/_assets/img/slides/bridal.jpg" alt="Tara Reid Photography - Bridal Photography" />
+		  	    	</li>
+		            <li>
+		  	    	    <img src="/_assets/img/slides/engagement.jpg" alt="Tara Reid Photography - Engagement Photography" />
+		  	    	</li>
+		  	    	<li>
+		  	    	    <img src="/_assets/img/slides/hats.jpg" alt="Tara Reid Photography - Children Portraits" />
+		  	    	</li>
+		  	    	<li>
+		  	    	    <img src="/_assets/img/slides/jump.jpg" alt="Tara Reid Photography - Child Portraits" />
+		  	    	</li>
+		  	    	<li>
+		  	    	    <img src="/_assets/img/slides/sunflower.jpg" alt="Tara Reid Photography - Infant Photography" />
+		  	    	</li>
+		        </ul>
 
-    </section>
+	        </div>
 
-    <section id="mix">
+	    </section>
 
-		<div class="controls">
+	    <section id="mix">
 
-		  <label>Filter:</label>
-		  
-		  <button class="filter" data-filter="all">All</button>
-		  <button class="filter" data-filter=".children">Children</button>
-		  <button class="filter" data-filter=".couples">Couples</button>
-		  <button class="filter" data-filter=".families">Families</button>
-		  <button class="filter" data-filter=".wedding-bridal">Wedding/Bridal</button>
-		  
-		</div>
+			<div class="controls">
+
+			  <label>Filter:</label>
+			  
+			  <button class="filter" data-filter="all">All</button>
+			  <button class="filter" data-filter=".children">Children</button>
+			  <button class="filter" data-filter=".couples">Couples</button>
+			  <button class="filter" data-filter=".families">Families</button>
+			  <button class="filter" data-filter=".wedding-bridal">Wedding/Bridal</button>
+			  
+			</div>
+			
+			<div id="Container" class="container">
+			
+			  <div class="mix children"></div>
+			  <div class="mix children"></div>
+			  <div class="mix children"></div>
+			  <div class="mix category-2"></div>
+			  <div class="mix children"></div>
+			  <div class="mix children"></div>
+			  <div class="mix category-2"></div>
+			  <div class="mix category-2"></div>
+			  
+			  <div class="gap"></div>
+			  <div class="gap"></div>
+			
+			</div>
 		
-		<div id="Container" class="container">
-		
-		  <div class="mix children"></div>
-		  <div class="mix children"></div>
-		  <div class="mix children"></div>
-		  <div class="mix category-2"></div>
-		  <div class="mix children"></div>
-		  <div class="mix children"></div>
-		  <div class="mix category-2"></div>
-		  <div class="mix category-2"></div>
-		  
-		  <div class="gap"></div>
-		  <div class="gap"></div>
-		
-		</div>
-	
-	</section>
+		</section>
+
+	</div><!--outer-->
 
 <script type="text/javascript">
 
