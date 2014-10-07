@@ -1,6 +1,8 @@
 
 		<footer>
 
+			<p>&copy; <? php echo "date(Y)"; ?> Tara Reid Photography</p>
+
 		</footer>
 
 
