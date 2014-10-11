@@ -980,6 +980,9 @@ body {
   background-color: #fff;
   opacity: .8;
   margin-bottom: 20px;
+  text-indent: 10px;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
 }
 .form textarea {
   width: 100%;
@@ -1023,6 +1026,8 @@ footer {
 }
 footer p {
   color: #fff;
+  font-size: 14px;
+  padding-top: 14px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   font-style: italic;

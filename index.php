@@ -1,6 +1,7 @@
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/head.php'); // HTTP head?>
-<title>Tara Reid Photography</title>
-<meta name="description" content="couples photography, family photography, wedding photography, children photography">
+
+	<title>Tara Reid Photography</title>
+	<meta name="description" content="couples photography, family photography, wedding photography, children photography">
 
 </head>
 <body>
@@ -65,54 +66,54 @@
 			
 			<div id="Container" class="container">
 			
-			  <div class="mix children"><img src="/_assets/img/pics/children01.jpg" alt="Children Photography"></div>
-			  <div class="mix children"><img src="/_assets/img/pics/children02.jpg" alt="Children Photography"></div>
-			  <div class="mix children"><img src="/_assets/img/pics/children03.jpg" alt="Children Photography"></div>
-			  <div class="mix children"><img src="/_assets/img/pics/children04.jpg" alt="Children Photography"></div>
-			  <div class="mix children"><img src="/_assets/img/pics/children05.jpg" alt="Children Photography"></div>
-			  <div class="mix children"><img src="/_assets/img/pics/children06.jpg" alt="Children Photography"></div>
-			  <div class="mix children"><img src="/_assets/img/pics/children07.jpg" alt="Children Photography"></div>
-			  <div class="mix children"><img src="/_assets/img/pics/children08.jpg" alt="Children Photography"></div>
-			  <div class="mix children"><img src="/_assets/img/pics/children09.jpg" alt="Children Photography"></div>
-			  <div class="mix children"><img src="/_assets/img/pics/children10.jpg" alt="Children Photography"></div>
-			  <div class="mix children"><img src="/_assets/img/pics/children11.jpg" alt="Children Photography"></div>
-			  <div class="mix children"><img src="/_assets/img/pics/children12.jpg" alt="Children Photography"></div>
-			  <div class="mix children"><img src="/_assets/img/pics/children13.jpg" alt="Children Photography"></div>
-			  <div class="mix children"><img src="/_assets/img/pics/children14.jpg" alt="Children Photography"></div>
-			  <div class="mix children"><img src="/_assets/img/pics/children15.jpg" alt="Children Photography"></div>
-			  <div class="mix children"><img src="/_assets/img/pics/children16.jpg" alt="Children Photography"></div>
-			  <div class="mix children"><img src="/_assets/img/pics/children17.jpg" alt="Children Photography"></div>
-			  <div class="mix children"><img src="/_assets/img/pics/children18.jpg" alt="Children Photography"></div>
-			  <div class="mix children"><img src="/_assets/img/pics/children19.jpg" alt="Children Photography"></div>
-			  <div class="mix children"><img src="/_assets/img/pics/children20.jpg" alt="Children Photography"></div>
-			  <div class="mix children"><img src="/_assets/img/pics/children21.jpg" alt="Children Photography"></div>
-			  <div class="mix children"><img src="/_assets/img/pics/children22.jpg" alt="Children Photography"></div>
-			  <div class="mix children"><img src="/_assets/img/pics/children23.jpg" alt="Children Photography"></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children01.jpg" alt="Children Photography"></a></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children02.jpg" alt="Children Photography"></a></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children03.jpg" alt="Children Photography"></a></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children04.jpg" alt="Children Photography"></a></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children05.jpg" alt="Children Photography"></a></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children06.jpg" alt="Children Photography"></a></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children07.jpg" alt="Children Photography"></a></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children08.jpg" alt="Children Photography"></a></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children09.jpg" alt="Children Photography"></a></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children10.jpg" alt="Children Photography"></a></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children11.jpg" alt="Children Photography"></a></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children12.jpg" alt="Children Photography"></a></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children13.jpg" alt="Children Photography"></a></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children14.jpg" alt="Children Photography"></a></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children15.jpg" alt="Children Photography"></a></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children16.jpg" alt="Children Photography"></a></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children17.jpg" alt="Children Photography"></a></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children18.jpg" alt="Children Photography"></a></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children19.jpg" alt="Children Photography"></a></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children20.jpg" alt="Children Photography"></a></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children21.jpg" alt="Children Photography"></a></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children22.jpg" alt="Children Photography"></a></div>
+			  <div class="mix children"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/children23.jpg" alt="Children Photography"></a></div>
 
-			  <div class="mix couples"><img src="/_assets/img/pics/couples01.jpg" alt="Couples Photography"></div>
-			  <div class="mix couples"><img src="/_assets/img/pics/couples02.jpg" alt="Couples Photography"></div>
-			  <div class="mix couples"><img src="/_assets/img/pics/couples03.jpg" alt="Couples Photography"></div>
-			  <div class="mix couples"><img src="/_assets/img/pics/couples04.jpg" alt="Couples Photography"></div>
+			  <div class="mix couples"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/couples01.jpg" alt="Couples Photography"></a></div>
+			  <div class="mix couples"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/couples02.jpg" alt="Couples Photography"></a></div>
+			  <div class="mix couples"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/couples03.jpg" alt="Couples Photography"></a></div>
+			  <div class="mix couples"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/couples04.jpg" alt="Couples Photography"></a></div>
 			  
-			  <div class="mix families"><img src="/_assets/img/pics/families01.jpg" alt="Family Photography"></div>
-			  <div class="mix families"><img src="/_assets/img/pics/families02.jpg" alt="Family Photography"></div>
-			  <div class="mix families"><img src="/_assets/img/pics/families03.jpg" alt="Family Photography"></div>
-			  <div class="mix families"><img src="/_assets/img/pics/families04.jpg" alt="Family Photography"></div>
-			  <div class="mix families"><img src="/_assets/img/pics/families05.jpg" alt="Family Photography"></div>
-			  <div class="mix families"><img src="/_assets/img/pics/families06.jpg" alt="Family Photography"></div>
-			  <div class="mix families"><img src="/_assets/img/pics/families07.jpg" alt="Family Photography"></div>
-			  <div class="mix families"><img src="/_assets/img/pics/families08.jpg" alt="Family Photography"></div>
-			  <div class="mix families"><img src="/_assets/img/pics/families09.jpg" alt="Family Photography"></div>
-			  <div class="mix families"><img src="/_assets/img/pics/families10.jpg" alt="Family Photography"></div>
+			  <div class="mix families"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/families01.jpg" alt="Family Photography"></a></div>
+			  <div class="mix families"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/families02.jpg" alt="Family Photography"></a></div>
+			  <div class="mix families"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/families03.jpg" alt="Family Photography"></a></div>
+			  <div class="mix families"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/families04.jpg" alt="Family Photography"></a></div>
+			  <div class="mix families"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/families05.jpg" alt="Family Photography"></a></div>
+			  <div class="mix families"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/families06.jpg" alt="Family Photography"></a></div>
+			  <div class="mix families"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/families07.jpg" alt="Family Photography"></a></div>
+			  <div class="mix families"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/families08.jpg" alt="Family Photography"></a></div>
+			  <div class="mix families"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/families09.jpg" alt="Family Photography"></a></div>
+			  <div class="mix families"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/families10.jpg" alt="Family Photography"></a></div>
 
-			  <div class="mix wedding-bridal"><img src="/_assets/img/pics/wedding-bridal01.jpg" alt="Bridal Photography"></div>
-			  <div class="mix wedding-bridal"><img src="/_assets/img/pics/wedding-bridal02.jpg" alt="Bridal Photography"></div>
-			  <div class="mix wedding-bridal"><img src="/_assets/img/pics/wedding-bridal03.jpg" alt="Bridal Photography"></div>
-			  <div class="mix wedding-bridal"><img src="/_assets/img/pics/wedding-bridal04.jpg" alt="Bridal Photography"></div>
-			  <div class="mix wedding-bridal"><img src="/_assets/img/pics/wedding-bridal05.jpg" alt="Bridal Photography"></div>
-			  <div class="mix wedding-bridal"><img src="/_assets/img/pics/wedding-bridal06.jpg" alt="Bridal Photography"></div>
-			  <div class="mix wedding-bridal"><img src="/_assets/img/pics/wedding-bridal07.jpg" alt="Bridal Photography"></div>
-			  <div class="mix wedding-bridal"><img src="/_assets/img/pics/wedding-bridal08.jpg" alt="Bridal Photography"></div>
+			  <div class="mix wedding-bridal"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/wedding-bridal01.jpg" alt="Bridal Photography"></a></div>
+			  <div class="mix wedding-bridal"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/wedding-bridal02.jpg" alt="Bridal Photography"></a></div>
+			  <div class="mix wedding-bridal"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/wedding-bridal03.jpg" alt="Bridal Photography"></a></div>
+			  <div class="mix wedding-bridal"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/wedding-bridal04.jpg" alt="Bridal Photography"></a></div>
+			  <div class="mix wedding-bridal"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/wedding-bridal05.jpg" alt="Bridal Photography"></a></div>
+			  <div class="mix wedding-bridal"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/wedding-bridal06.jpg" alt="Bridal Photography"></a></div>
+			  <div class="mix wedding-bridal"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/wedding-bridal07.jpg" alt="Bridal Photography"></a></div>
+			  <div class="mix wedding-bridal"><a href="/_assets/img/pics/.jpg" class="fancybox fancybox.iframe"><img src="/_assets/img/pics/wedding-bridal08.jpg" alt="Bridal Photography"></a></div>
 
 			  <div class="gap"></div>
 			  <div class="gap"></div>
@@ -195,12 +196,5 @@
 
 	</div><!--outer-->
 
-<script type="text/javascript">
 
-	$(function(){
-	  $('#Container').mixItUp();
-	});	
-
-</script>
-
-<?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/footer.php'); // footer, close body and html?>
+<?php require_once($_SERVER['DOCUMENT_ROOT'].'/_assets/inc/footer.php'); ?>
