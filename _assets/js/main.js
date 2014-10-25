@@ -3,8 +3,7 @@
 // codekit pre-prends
 
 // set initial variables
-var $header,
-	$content;
+var $header;
 
 $(function() {
 	firstLoad();
